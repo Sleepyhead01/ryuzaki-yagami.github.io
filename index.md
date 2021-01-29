@@ -9,15 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-<!-- this is the embed code provided by Google -->
-  <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Sleepyhead/2.embed"></iframe>
-Syntax highlighted code block
-<!-- Google embed ends -->
-</div>
 
 <div>
     <a href="https://plotly.com/~Sleepyhead/2/?share_key=bq96qpLKtgDcOuyk883wjE" target="_blank" title="abc" style="display: block; text-align: center;"><img src="https://plotly.com/~Sleepyhead/2.png?share_key=bq96qpLKtgDcOuyk883wjE" alt="abc" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
