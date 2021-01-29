@@ -1,3 +1,5 @@
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Sleepyhead/2.embed"></iframe>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ryuzaki-yagami/ryuzaki-yagami.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
